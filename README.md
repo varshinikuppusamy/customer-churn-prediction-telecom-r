@@ -34,7 +34,15 @@ The dataset was collected through a structured Google Form survey with 100 respo
 ---
 
 ## 🔄 Project Structure
-<pre> <code>``` R_Code/ ├── data_cleaning.R # Cleans and prepares the dataset ├── data_visualization.R # Generates charts and visual insights └── churn_modeling.R # Builds and evaluates ML models Master_Project_Report.pdf # Full project report and insights ```</code> </pre>
+
+```
+R_Code/
+├── data_cleaning.R         # Cleans and prepares the dataset
+├── data_visualization.R    # Generates charts and visual insights
+└── churn_modeling.R        # Builds and evaluates ML models
+Master_Project_Report.pdf   # Full project report and insights
+```
+
 ---
 
 ## 🔬 Machine Learning Models Used
